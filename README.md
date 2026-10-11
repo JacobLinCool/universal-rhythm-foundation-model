@@ -4,14 +4,15 @@ Charts for any song, for many rhythm games, from audio alone.
 
 URFM separates **what the music asks the player to do** from **how a particular game asks for
 it**. Charts from Taiko, osu! (all four modes), StepMania and maimai are read into one lossless
-**Universal Chart IR**; each game's controls are a declarative **Game Mechanics Spec**; one
-model trained on all of them writes new charts for a song it has never heard.
+**Universal Chart IR**, and each game's controls are described by a declarative **Game Mechanics
+Spec**. A single model trained on all of these games writes new charts for songs it has never
+heard.
 
 ## Features
 
-- **Audio in, playable chart out.** Tempo and bar lines come from a beat model; no BPM or
-  offset is needed. Output: Taiko (`.tja`) and osu!taiko / mania (any key count) / catch /
-  standard (`.osu`).
+- **Audio in, playable chart out.** Tempo and bar lines come from a beat model, so no BPM or
+  offset is needed. Charts are written for Taiko (`.tja`) and for osu!taiko, osu!mania (any key
+  count), osu!catch and osu!standard (`.osu`).
 - **Song-level structure.** A song planner reads the whole song and plans every section
   (density, peak bursts, fine notes, rests, colours, long notes, finest subdivision,
   repetition, rhythm variety). Choruses get denser than verses, and patterns repeat where the
@@ -21,8 +22,8 @@ model trained on all of them writes new charts for a song it has never heard.
   whatever tempo grid the audio yields (half or double tempo included).
 - **Controllable.** Game, course and level, mean and peak density, scroll and meter activity,
   sampling temperatures and seed.
-- **Lossless IR and codecs.** Exact rational beats with microsecond residuals; TJA, `.osu`,
-  `.sm`/`.ssc` and simai round-trip with measured fidelity.
+- **Lossless IR and codecs.** Positions are exact rational beats with microsecond residuals.
+  TJA, `.osu`, `.sm`/`.ssc` and simai charts round-trip with measured fidelity.
 
 ## Try it
 
@@ -52,28 +53,28 @@ audio ──► log-mel ──► beat model (5M) ──► timing map (tempo, b
                    Universal Chart IR ──► TJA / .osu writers
 ```
 
-- **Beat model**: a convolutional Transformer over the log-mel; dynamic-programming decoding
-  into one consistent metrical level and meter.
+- **Beat model**: a convolutional Transformer over the log-mel. Dynamic-programming decoding
+  turns its output into one consistent metrical level and meter.
 - **Song planner**: a bidirectional Transformer over per-section audio descriptors (onset
   envelope folded onto one beat at 48 phases, band energies, tempo), conditioned on the game
   and the requested density.
-- **Chart decoder**: an encoder–decoder Transformer. Tokens describe each event in a shared
-  part (position, primitive: hit / hold / repeat / path) followed by a game-specific part (role,
-  lane or position, from the mechanics spec); a grammar from the spec constrains decoding, so
-  every output is a valid chart.
+- **Chart decoder**: an encoder–decoder Transformer. Each event is written as a shared part
+  (position and primitive: hit, hold, repeat or path) followed by a game-specific part (role,
+  lane or position, as declared by the mechanics spec). A grammar derived from the spec
+  constrains decoding, so every output is a valid chart.
 
 ## Training
 
 | Stage | Data | Method |
 | --- | --- | --- |
-| Data | Taiko-1000 (1,155 songs) + osu! (21,314 songs, four modes); 111k training charts; song-level split shared across games | Charts read into the IR; benchmark songs held out for evaluation only |
-| Supervised | All games; Taiko weighted up | Next-token prediction with section plans and memory taken from the human chart; augmentation by tempo warps, half/double/quarter-BPM re-notation and re-notation on the beat model's grid; context corruption against exposure bias |
-| Planner | Same charts, same augmentation | Per-section classification of the plan values |
-| RL | Taiko + osu!taiko | Song-level GRPO: the model writes ~96 s spans reading its own output; rewards for note placement precision, rhythm distribution, plan adherence, structure alignment, and penalties for stagnation and monotony, with a KL anchor |
+| Data | Taiko-1000 (1,155 songs) and osu! (21,314 songs, four modes), 111k training charts with one song-level split across games | Charts are read into the IR. Benchmark songs are held out for evaluation only. |
+| Supervised | All games, with Taiko weighted up | Next-token prediction, with section plans and memory taken from the human chart. Augmentation covers tempo warps, half, double and quarter-BPM re-notation, and re-notation on the beat model's grid. Context corruption counters exposure bias. |
+| Planner | Same charts and augmentation | Per-section classification of the plan values. |
+| RL | Taiko and osu!taiko | Song-level GRPO. The model writes ~96 s spans while reading its own output, and is rewarded for placement precision, rhythm distribution, plan adherence and structure alignment, with penalties for stagnation and monotony and a KL anchor to the supervised model. |
 
-Onset F1 against one human chart is reported but not optimised for: a song admits many valid
-charts. What is rewarded is that a note, where it exists, sits exactly on its place, and that
-the chart's structure follows the music.
+Onset F1 against one human chart is reported but not optimised, because a song admits many
+valid charts. Instead, the model is rewarded when the notes it writes are placed precisely and
+when the chart's structure follows the music.
 
 ## Results (held-out Taiko-1000 test, timing from audio)
 
@@ -85,11 +86,11 @@ the chart's structure follows the music.
 | Excess monotone time, s/min (human 0.26) | 0.66 | 0.22 |
 | Onset F1 @ 25 ms | 0.575 | 0.556 |
 
-On four newer, harder charts the R6 models reach section contrast 0.38–0.42 (R5 0.21) and
-structure alignment 0.13–0.15 (R5 0.05; human 0.19). Fast bursts on songs the beat model reads
-at half tempo are still under-produced. Details, ablations and the reasons for each design choice:
-[docs/research/design-decisions.md](docs/research/design-decisions.md); full log:
-[experiments/LOG.md](experiments/LOG.md).
+On four newer, harder charts the R6 models reach a section contrast of 0.38–0.42 (R5: 0.21)
+and a structure alignment of 0.13–0.15 (R5: 0.05, human: 0.19). Fast bursts are still
+under-produced on songs that the beat model reads at half tempo. The reasons behind each design
+choice, with ablations, are in [docs/research/design-decisions.md](docs/research/design-decisions.md),
+and the full record is in [experiments/LOG.md](experiments/LOG.md).
 
 ## Documentation
 
@@ -116,4 +117,4 @@ and add hand-written fixtures with a round-trip test (see
 ## License
 
 The code is MIT-licensed. Chart data and audio belong to their respective owners and are not
-distributed here; see [docs/roadmap.md](docs/roadmap.md#data-and-licensing).
+distributed here. See [docs/roadmap.md](docs/roadmap.md#data-and-licensing).
