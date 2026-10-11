@@ -1,0 +1,51 @@
+id = "taiko"
+name = "Taiko no Tatsujin"
+family = "drum"
+accent_modifiers = ["big"]
+controls = ["scroll", "highlight", "barline", "taiko:section", "taiko:levelhold"]
+notes = "Drum game without spatial choice. Roles are shared with osu_taiko."
+
+[space]
+kind = "none"
+
+[roles."taiko:don"]
+primitives = ["hit"]
+modifiers = ["big", "hand"]
+description = "Centre hit. `big` = both hands; `hand` = big note requiring a partner hit (TJA A)."
+
+[roles."taiko:ka"]
+primitives = ["hit"]
+modifiers = ["big", "hand"]
+description = "Rim hit."
+
+[roles."taiko:drumroll"]
+primitives = ["repeat"]
+modifiers = ["big"]
+description = "Free drumroll between time and end."
+
+[roles."taiko:balloon"]
+primitives = ["repeat"]
+modifiers = ["kusudama"]
+description = "Balloon requiring `count` hits before `end`."
+
+[roles."taiko:mine"]
+primitives = ["hit"]
+interactive = false
+description = "Bomb/mine that must not be hit (TJA C)."
+
+[roles."taiko:adlib"]
+primitives = ["hit"]
+interactive = false
+description = "Hidden optional note (TJA F)."
+
+[roles."taiko:kadon"]
+primitives = ["hit"]
+description = "Don-or-ka note (TJA G)."
+
+[constraints]
+max_simultaneous = 1
+
+[difficulty]
+labels = ["easy", "normal", "hard", "oni", "edit"]
+level_min = 1
+level_max = 10

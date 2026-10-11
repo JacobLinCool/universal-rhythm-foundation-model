@@ -1,0 +1,26 @@
+id = "osu_std"
+name = "osu!standard"
+family = "plane"
+controls = ["highlight", "osu:sv", "barline", "osu:red_line"]
+notes = "Coordinates are osu! pixels on the 512x384 playfield."
+
+[space]
+kind = "plane"
+width = 512
+height = 384
+
+[roles."osu:circle"]
+primitives = ["hit"]
+targets = ["point"]
+
+[roles."osu:slider"]
+primitives = ["path"]
+targets = ["point"]
+description = "Follow `path` from `time` to `end`; `count` = number of slides (1 + repeats)."
+
+[roles."osu:spinner"]
+primitives = ["repeat"]
+
+[difficulty]
+labels = ["easy", "normal", "hard", "insane", "expert"]
+level_min = 0

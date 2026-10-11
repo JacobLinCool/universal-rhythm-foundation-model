@@ -1,0 +1,31 @@
+id = "osu_taiko"
+name = "osu!taiko"
+family = "drum"
+accent_modifiers = ["big"]
+extends = "taiko"
+controls = ["scroll", "highlight", "barline", "osu:red_line"]
+
+[space]
+kind = "none"
+
+[roles."taiko:don"]
+primitives = ["hit"]
+modifiers = ["big"]
+
+[roles."taiko:ka"]
+primitives = ["hit"]
+modifiers = ["big"]
+
+[roles."taiko:drumroll"]
+primitives = ["repeat"]
+modifiers = ["big"]
+
+[roles."taiko:balloon"]
+primitives = ["repeat"]
+description = "osu! spinner rendered as a denden/balloon."
+
+[constraints]
+max_simultaneous = 1
+
+[difficulty]
+level_min = 0

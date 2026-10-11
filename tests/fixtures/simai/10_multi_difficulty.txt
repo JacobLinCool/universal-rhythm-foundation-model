@@ -1,0 +1,31 @@
+&title=Multi Difficulty
+&artist=URFM
+&des=designer
+&wholebpm=128
+&genre=maimai
+&version=fixture
+&lv_1=1
+&lv_2=3
+&des_2=basic designer
+&lv_3=7+
+&lv_4=10
+&lv_5=13.7
+&lv_6=14+
+&inote_1=
+(128){4}1,,5,,
+E
+&inote_2=
+(128){4}1,2,5,6,
+E
+&inote_3=
+(128){8}1,2,3,4,5h[4:1],,,,
+E
+&inote_4=
+(128){8}1/5,2/6,3-7[8:1],4,5,6,7,8,
+E
+&inote_5=
+(128){16}1,2,3,4,5,6,7,8,1b/5b,,,,C,,,,
+E
+&inote_6=
+(130){16}1,2,3,4,5,6,7,8,1b/5b,,,,C,,,,
+E

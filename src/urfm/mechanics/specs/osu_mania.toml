@@ -1,0 +1,22 @@
+id = "osu_mania"
+name = "osu!mania"
+family = "lane"
+controls = ["scroll", "highlight", "barline", "osu:red_line"]
+notes = "Key count is per chart: Chart.meta['lanes']."
+
+[space]
+kind = "lanes"
+
+[roles."mania:note"]
+primitives = ["hit"]
+targets = ["lane"]
+
+[roles."mania:hold"]
+primitives = ["hold"]
+targets = ["lane"]
+
+[constraints]
+exclusive_holds = true
+
+[difficulty]
+level_min = 0

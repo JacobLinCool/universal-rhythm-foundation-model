@@ -179,3 +179,31 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Colab CLI session state and local secrets (never commit)
+.colab/
+.env
+
+# generated charts of copyrighted songs: keep local (metrics such as rows.jsonl stay tracked)
+runs/*/samples/
+runs/*/playable/
+runs/*/playable-gen*/
+runs/results/*/eval*/samples/
+runs/results/*/crossgame/*.osu
+runs/results/*/crossgame/*.tja
+runs/**/bench/**/*.tja
+runs/**/bench/**/*.osu
+runs/**/*.ogg
+runs/**/*.mp3
+runs/**/*.wav
+runs/**/*.flac
+
+# model checkpoints and benchmark audio/charts (fetched from the Hub / kept local)
+runs/checkpoints/
+runs/newcharts/
+*.pt
+
+# app and tool output
+/out/
+.gradio/
+
+.DS_Store

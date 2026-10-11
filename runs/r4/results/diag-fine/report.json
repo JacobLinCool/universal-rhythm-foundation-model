@@ -1,0 +1,41 @@
+{
+ "data": {
+  "taiko1000": {
+   "charts": 3993,
+   "share_lt60": 0.014769131662214139,
+   "share_lt45": 0.001939353584894425,
+   "charts_ge5pct_lt60": 0.037064863511144505
+  },
+  "osu": {
+   "charts": 3465,
+   "share_lt60": 0.05124333751258678,
+   "share_lt45": 0.0061977521229800115,
+   "charts_ge5pct_lt60": 0.0886002886002886
+  }
+ },
+ "validation_fast_charts": {
+  "taiko": 0,
+  "osu_taiko": 41
+ },
+ "belief": {
+  "fast_events": 30468,
+  "fast_p_beat_mean": 0.8837580675243383,
+  "fast_p_sub_mean": 0.7847924187097411,
+  "fast_p_sub_median": 0.9504292607307434,
+  "fast_sub_in_nucleus": 0.967080215307864,
+  "other_sub_in_nucleus": 0.9602583108259042
+ },
+ "decoding": {
+  "human_share_lt60": 0.17209535515590632,
+  "top_p=0.95": {
+   "share_lt60": 0.03191151695680836,
+   "share_lt45": 0.006567863857216105,
+   "notes_ratio": 0.6626153572640732
+  },
+  "top_p=1.0": {
+   "share_lt60": 0.043576217166721616,
+   "share_lt45": 0.013133311352895922,
+   "notes_ratio": 0.5888998432272559
+  }
+ }
+}

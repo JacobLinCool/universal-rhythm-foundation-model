@@ -1,0 +1,257 @@
+{
+ "easy": {
+  "1": {
+   "charts": 35,
+   "log2_rate": -0.47149085998535156,
+   "log2_peak_rate": 0.48542681336402893,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "2": {
+   "charts": 139,
+   "log2_rate": -0.05611765757203102,
+   "log2_peak_rate": 0.5849624872207642,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "3": {
+   "charts": 324,
+   "log2_rate": 0.2915942668914795,
+   "log2_peak_rate": 1.0,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "4": {
+   "charts": 301,
+   "log2_rate": 0.5125128626823425,
+   "log2_peak_rate": 1.0,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.621237576007843
+  },
+  "5": {
+   "charts": 153,
+   "log2_rate": 0.8779661059379578,
+   "log2_peak_rate": 1.5849624872207642,
+   "log2p_scroll_per_min": 1.10075843334198,
+   "log2p_meter_per_min": 1.4901742935180664
+  }
+ },
+ "edit": {
+  "1": {
+   "charts": 3,
+   "log2_rate": -0.07061532139778137,
+   "log2_peak_rate": 1.0,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "7": {
+   "charts": 2,
+   "log2_rate": 2.0166423320770264,
+   "log2_peak_rate": 2.700439691543579,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 1.0129008293151855
+  },
+  "8": {
+   "charts": 39,
+   "log2_rate": 2.378462791442871,
+   "log2_peak_rate": 2.8073549270629883,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "9": {
+   "charts": 64,
+   "log2_rate": 2.6803927421569824,
+   "log2_peak_rate": 3.112483263015747,
+   "log2p_scroll_per_min": 0.2994062304496765,
+   "log2p_meter_per_min": 0.9576374888420105
+  },
+  "10": {
+   "charts": 87,
+   "log2_rate": 2.956272602081299,
+   "log2_peak_rate": 3.392317533493042,
+   "log2p_scroll_per_min": 2.193423271179199,
+   "log2p_meter_per_min": 1.6083732843399048
+  }
+ },
+ "hard": {
+  "1": {
+   "charts": 8,
+   "log2_rate": 0.26011449098587036,
+   "log2_peak_rate": 1.0,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "2": {
+   "charts": 5,
+   "log2_rate": 0.8370479345321655,
+   "log2_peak_rate": 1.3219281435012817,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "3": {
+   "charts": 42,
+   "log2_rate": 1.1348388195037842,
+   "log2_peak_rate": 1.8073549270629883,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "4": {
+   "charts": 97,
+   "log2_rate": 1.380952000617981,
+   "log2_peak_rate": 2.0,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "5": {
+   "charts": 175,
+   "log2_rate": 1.5216106176376343,
+   "log2_peak_rate": 2.1699249744415283,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "6": {
+   "charts": 236,
+   "log2_rate": 1.7609102725982666,
+   "log2_peak_rate": 2.321928024291992,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "7": {
+   "charts": 233,
+   "log2_rate": 1.8961249589920044,
+   "log2_peak_rate": 2.4594316482543945,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.6541271805763245
+  },
+  "8": {
+   "charts": 151,
+   "log2_rate": 2.1559231281280518,
+   "log2_peak_rate": 2.700439691543579,
+   "log2p_scroll_per_min": 1.2754182815551758,
+   "log2p_meter_per_min": 1.4806106090545654
+  }
+ },
+ "normal": {
+  "1": {
+   "charts": 11,
+   "log2_rate": -0.030502088367938995,
+   "log2_peak_rate": 0.5849624872207642,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "2": {
+   "charts": 55,
+   "log2_rate": 0.3251533508300781,
+   "log2_peak_rate": 1.0,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "3": {
+   "charts": 99,
+   "log2_rate": 0.5524554252624512,
+   "log2_peak_rate": 1.0703892707824707,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "4": {
+   "charts": 212,
+   "log2_rate": 0.7805874347686768,
+   "log2_peak_rate": 1.3639602661132812,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "5": {
+   "charts": 237,
+   "log2_rate": 1.0350977182388306,
+   "log2_peak_rate": 1.5849624872207642,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "6": {
+   "charts": 210,
+   "log2_rate": 1.1980578899383545,
+   "log2_peak_rate": 1.8073549270629883,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.6276370286941528
+  },
+  "7": {
+   "charts": 130,
+   "log2_rate": 1.4597464799880981,
+   "log2_peak_rate": 2.145470142364502,
+   "log2p_scroll_per_min": 1.008552074432373,
+   "log2p_meter_per_min": 1.5306205749511719
+  }
+ },
+ "oni": {
+  "1": {
+   "charts": 3,
+   "log2_rate": 1.3745368719100952,
+   "log2_peak_rate": 1.8073549270629883,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "2": {
+   "charts": 3,
+   "log2_rate": 1.2801071405410767,
+   "log2_peak_rate": 1.5849624872207642,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "3": {
+   "charts": 4,
+   "log2_rate": 1.3235247135162354,
+   "log2_peak_rate": 1.9036774635314941,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.39879247546195984
+  },
+  "4": {
+   "charts": 9,
+   "log2_rate": 1.873543381690979,
+   "log2_peak_rate": 2.1699249744415283,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "5": {
+   "charts": 21,
+   "log2_rate": 1.6251839399337769,
+   "log2_peak_rate": 2.321928024291992,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "6": {
+   "charts": 101,
+   "log2_rate": 1.9315202236175537,
+   "log2_peak_rate": 2.4594316482543945,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "7": {
+   "charts": 181,
+   "log2_rate": 2.119997501373291,
+   "log2_peak_rate": 2.5849626064300537,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "8": {
+   "charts": 278,
+   "log2_rate": 2.3843250274658203,
+   "log2_peak_rate": 2.8073549270629883,
+   "log2p_scroll_per_min": 0.0,
+   "log2p_meter_per_min": 0.0
+  },
+  "9": {
+   "charts": 185,
+   "log2_rate": 2.5885605812072754,
+   "log2_peak_rate": 3.087462902069092,
+   "log2p_scroll_per_min": 0.5481046438217163,
+   "log2p_meter_per_min": 0.6674246788024902
+  },
+  "10": {
+   "charts": 160,
+   "log2_rate": 2.8609466552734375,
+   "log2_peak_rate": 3.3714075088500977,
+   "log2p_scroll_per_min": 1.7599737644195557,
+   "log2p_meter_per_min": 1.6402347087860107
+  }
+ }
+}

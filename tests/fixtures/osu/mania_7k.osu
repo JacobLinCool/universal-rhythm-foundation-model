@@ -1,0 +1,56 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 1500
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+
+[Editor]
+Bookmarks: 1000,2000
+DistanceSpacing: 1.2
+BeatDivisor: 4
+
+[Metadata]
+Title:Mania 7K
+TitleUnicode:Mania 7K
+Artist:URFM Fixtures
+ArtistUnicode:URFM Fixtures
+Creator:urfm
+Version:7K Insane
+Source:
+Tags:fixture test
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:7
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+2,5000,7000
+//Storyboard Layer 0 (Background)
+
+[TimingPoints]
+0,250,4,1,0,40,1,0
+1000,200,4,1,0,40,1,0
+
+[HitObjects]
+36,192,0,1,0,0:0:0:0:
+109,192,0,1,0,0:0:0:0:
+182,192,62,1,0,0:0:0:0:
+256,192,125,128,0,500:0:0:0:0:
+329,192,187,1,0,0:0:0:0:
+402,192,250,1,0,0:0:0:0:
+475,192,312,128,0,812:0:0:0:0:
+40,192,1000,1,0,0:0:0:0:
+475,192,1050,1,0,0:0:0:0:

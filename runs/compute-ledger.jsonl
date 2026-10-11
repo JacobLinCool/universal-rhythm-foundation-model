@@ -1,0 +1,27 @@
+{"t": "2026-10-09T01:12", "event": "session_start", "session": "urfm-l4", "gpu": "L4", "balance_cu": 905.35, "rate_cu_per_hour": 1.54, "cap_cu": 50, "stop_below": 855.35, "note": "balance read at 01:16 right after allocation"}
+{"t": "2026-10-09T01:18", "event": "job_start", "session": "urfm-l4", "job": "ingest_v0 taiko1000 -> osu (std 5%)", "uses_gpu": false}
+{"t": "2026-10-09T03:40", "event": "note", "note": "account shared with another study (unnamed L4, started ~03:15); URFM budget = urfm-l4 uptime x 1.54 CU/h, not balance delta", "balance_cu": 900.92}
+{"t": "2026-10-09T06:30", "event": "session_start", "session": "urfm-l4-b", "gpu": "L4", "rate_cu_per_hour": 1.54, "purpose": "parallel V3 scale run"}
+{"t": "2026-10-09T07:00", "event": "restart", "note": "V2 crashed (DataLoader worker died, likely OOM from concurrent export job); V3 runs restarted with max_dec_len 2048 after osu_mania truncation 18-23% at 1024; chain rc bug fixed"}
+{"t": "2026-10-09T07:45", "event": "restart", "note": "V2/V3 restarted: us_to_beat now returns the latest segment (osu! red-line windows were off-grid); simultaneous drops labelled"}
+{"t": "2026-10-09T11:47", "event": "stop_training", "session": "urfm-l4-b", "run": "v3-all-15m", "step": 6400, "best_val": 1.0384}
+{"t": "2026-10-09T12:20", "event": "sessions_stopped", "sessions": ["urfm-l4", "urfm-l4-b"], "uptime_h": {"urfm-l4": 11.13, "urfm-l4-b": 5.83}, "urfm_cu": 26.1, "balance_cu": 865.70, "note": "balance delta includes another study's concurrent L4"}
+{"t": "2026-10-09T12:40", "event": "session_start", "session": "urfm-l4", "gpu": "L4", "rate_cu_per_hour": 1.54, "purpose": "round 2: real-data loader profiling, then training", "cap_cu_round2": 30}
+{"t": "2026-10-09T14:10", "event": "session_start", "session": "urfm-l4-b", "purpose": "round 2 fair comparison (r2-taiko)"}
+{"t": "2026-10-09T18:22", "event": "session_stopped", "session": "urfm-l4-b", "note": "r2-taiko done 17:39; idle ~40 min"}
+{"t": "2026-10-09T21:10", "event": "sessions_stopped", "session": "urfm-l4", "round": 2, "uptime_h": {"urfm-l4": 8.5, "urfm-l4-b": 1.2}, "urfm_cu_round2": 15.0}
+{"t": "2026-10-10T00:00", "event": "budget", "round": "R4", "cap_cu": 50, "note": "user authorised up to 50 CU for R4 (timing model + note model R4 + eval)"}
+{"t": "2026-10-09T16:32", "event": "session_start", "session": "urfm-l4", "gpu": "L4", "rate_cu_per_hour": 1.54, "round": "R4", "purpose": "beat model: data, canon stats, train, eval"}
+{"t": "2026-10-09T16:42", "event": "session_start", "session": "urfm-l4-b", "gpu": "L4", "rate_cu_per_hour": 1.54, "round": "R4", "purpose": "r4a-full-15m note model"}
+{"t": "2026-10-09T18:31", "event": "note", "note": "VM-A: predict_timing (old decode) stopped; 45M R4 started without predicted grid; DP beat tracking added"}
+{"t": "2026-10-09T20:25", "event": "checkpoint", "round": "R4", "uptime_h": {"urfm-l4": 4.0, "urfm-l4-b": 3.8}, "urfm_cu_r4_so_far": 12.0, "note": "beat-v1, r4a, r4b done; 45M at 4k/16k steps; R3 baseline evals running"}
+{"t": "2026-10-09T22:31", "event": "session_stopped", "session": "urfm-l4-b", "uptime_h": 5.82, "urfm_cu": 8.96, "did": "r4a, r4b, R3 baseline evals, timing maps (HF JacobLinCool/urfm-timing-v1)"}
+{"t": "2026-10-10T03:31", "event": "session_stopped", "session": "urfm-l4", "uptime_h": 10.98, "urfm_cu": 16.91, "round": "R4", "urfm_cu_r4_total": 25.87}
+{"t": "2026-10-10T09:47", "event": "session_start", "session": "urfm-l4", "gpu": "L4", "rate_cu_per_hour": 1.54, "round": "R4 follow-up", "purpose": "fine-note diagnosis"}
+{"t": "2026-10-10T10:36", "event": "session_stopped", "session": "urfm-l4", "uptime_h": 0.85, "urfm_cu": 1.31, "did": "fine-note diagnosis"}
+{"t": "2026-10-10T12:25", "event": "session_start", "session": "urfm-l4", "gpu": "L4", "rate_cu_per_hour": 1.54, "round": "R5", "purpose": "fast-boost SFT + GRPO (15M)"}
+{"t": "2026-10-10T15:56", "event": "session_stopped", "session": "urfm-l4", "uptime_h": 3.52, "urfm_cu": 5.42, "round": "R5", "cu_total_since_r4_authorisation": 32.6, "note": "r5-rl2 x1.25/osu/diag rows were not fetched before stop (lost); octave-search P1 eval aborted"}
+{"t": "2026-10-10T17:31", "event": "session_start", "session": "urfm-l4", "purpose": "monotony human reference (CPU only)"}
+{"t": "2026-10-10T17:38", "event": "note", "note": "two short CPU sessions for the monotony reference (17:31-17:34, 17:35-17:38), about 0.15 CU"}
+{"t": "2026-10-10T18:55", "event": "note", "note": "CPU session 18:53-18:55 for variation calibration (~0.05 CU)"}
+{"t": "2026-10-10T19:14", "event": "note", "note": "variation calibration sessions 18:56-19:11 (first run cut short by a stale log, ~0.4 CU) and 19:12-19:14; total since R4 authorisation ~33.3 CU"}

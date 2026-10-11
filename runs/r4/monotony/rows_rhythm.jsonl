@@ -1,0 +1,325 @@
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "human", "course": "oni", "windows": 109, "monotone_share": 0.009174311926605505, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "human", "course": "hard", "windows": 110, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "human", "course": "normal", "windows": 106, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "human", "course": "easy", "windows": 103, "monotone_share": 0.019417475728155338, "longest_monotone_s": 10.0, "period_hist": {"3": 1, "4": 1}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R1 (v1)", "course": "oni", "windows": 95, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R1 (v1)", "course": "hard", "windows": 95, "monotone_share": 0.010526315789473684, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R1 (v1)", "course": "normal", "windows": 93, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R1 (v1)", "course": "easy", "windows": 71, "monotone_share": 0.14084507042253522, "longest_monotone_s": 17.0, "period_hist": {"3": 10}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 (v2)", "course": "oni", "windows": 95, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 (v2)", "course": "hard", "windows": 95, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 (v2)", "course": "normal", "windows": 94, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 (v2)", "course": "easy", "windows": 77, "monotone_share": 0.09090909090909091, "longest_monotone_s": 13.0, "period_hist": {"1": 3, "8": 4}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 all games (v3)", "course": "oni", "windows": 80, "monotone_share": 0.0125, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 all games (v3)", "course": "hard", "windows": 93, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 all games (v3)", "course": "normal", "windows": 95, "monotone_share": 0.010526315789473684, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R2 all games (v3)", "course": "easy", "windows": 97, "monotone_share": 0.08247422680412371, "longest_monotone_s": 13.0, "period_hist": {"1": 3, "2": 1, "3": 2, "4": 2}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R3 best", "course": "oni", "windows": 96, "monotone_share": 0.5416666666666666, "longest_monotone_s": 37.0, "period_hist": {"1": 20, "5": 28, "7": 4}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R3 best", "course": "hard", "windows": 94, "monotone_share": 0.574468085106383, "longest_monotone_s": 32.0, "period_hist": {"1": 26, "3": 27, "6": 1}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R3 best", "course": "normal", "windows": 94, "monotone_share": 0.5851063829787234, "longest_monotone_s": 64.0, "period_hist": {"1": 23, "2": 1, "3": 31}}
+{"set": "A", "song": "taiko1000_test-00000-カノン_シンクロニカ_Remix_", "source": "R3 best", "course": "easy", "windows": 94, "monotone_share": 0.3829787234042553, "longest_monotone_s": 22.0, "period_hist": {"1": 15, "3": 16, "4": 2, "5": 3}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "human", "course": "oni", "windows": 98, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "human", "course": "hard", "windows": 98, "monotone_share": 0.07142857142857142, "longest_monotone_s": 14.0, "period_hist": {"1": 4, "2": 1, "4": 1, "5": 1}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "human", "course": "normal", "windows": 98, "monotone_share": 0.17346938775510204, "longest_monotone_s": 26.0, "period_hist": {"1": 5, "3": 12}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "human", "course": "easy", "windows": 98, "monotone_share": 0.19387755102040816, "longest_monotone_s": 27.0, "period_hist": {"3": 18, "4": 1}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R1 (v1)", "course": "oni", "windows": 97, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R1 (v1)", "course": "hard", "windows": 96, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R1 (v1)", "course": "normal", "windows": 96, "monotone_share": 0.0625, "longest_monotone_s": 13.0, "period_hist": {"3": 6}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R1 (v1)", "course": "easy", "windows": 93, "monotone_share": 0.3118279569892473, "longest_monotone_s": 28.0, "period_hist": {"3": 24, "5": 5}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 (v2)", "course": "oni", "windows": 86, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 (v2)", "course": "hard", "windows": 98, "monotone_share": 0.030612244897959183, "longest_monotone_s": 12.0, "period_hist": {"7": 3}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 (v2)", "course": "normal", "windows": 94, "monotone_share": 0.14893617021276595, "longest_monotone_s": 17.0, "period_hist": {"1": 12, "4": 1, "6": 1}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 (v2)", "course": "easy", "windows": 93, "monotone_share": 0.06451612903225806, "longest_monotone_s": 11.0, "period_hist": {"5": 2, "7": 2, "8": 2}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 all games (v3)", "course": "oni", "windows": 72, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 all games (v3)", "course": "hard", "windows": 91, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 all games (v3)", "course": "normal", "windows": 91, "monotone_share": 0.02197802197802198, "longest_monotone_s": 10.0, "period_hist": {"7": 2}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R2 all games (v3)", "course": "easy", "windows": 97, "monotone_share": 0.041237113402061855, "longest_monotone_s": 13.0, "period_hist": {"1": 4}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R3 best", "course": "oni", "windows": 97, "monotone_share": 0.9072164948453608, "longest_monotone_s": 97.0, "period_hist": {"1": 88}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R3 best", "course": "hard", "windows": 99, "monotone_share": 0.5151515151515151, "longest_monotone_s": 34.0, "period_hist": {"1": 36, "3": 3, "4": 1, "6": 1, "7": 10}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R3 best", "course": "normal", "windows": 96, "monotone_share": 0.15625, "longest_monotone_s": 17.0, "period_hist": {"5": 7, "7": 8}}
+{"set": "A", "song": "taiko1000_test-00001-にんじんにん", "source": "R3 best", "course": "easy", "windows": 100, "monotone_share": 0.93, "longest_monotone_s": 102.0, "period_hist": {"3": 93}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "human", "course": "oni", "windows": 132, "monotone_share": 0.06060606060606061, "longest_monotone_s": 13.0, "period_hist": {"6": 8}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "human", "course": "hard", "windows": 132, "monotone_share": 0.06060606060606061, "longest_monotone_s": 14.0, "period_hist": {"4": 7, "8": 1}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "human", "course": "normal", "windows": 132, "monotone_share": 0.022727272727272728, "longest_monotone_s": 11.0, "period_hist": {"2": 1, "5": 2}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "human", "course": "easy", "windows": 132, "monotone_share": 0.05303030303030303, "longest_monotone_s": 13.0, "period_hist": {"1": 7}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R1 (v1)", "course": "oni", "windows": 127, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R1 (v1)", "course": "hard", "windows": 130, "monotone_share": 0.015384615384615385, "longest_monotone_s": 10.0, "period_hist": {"1": 1, "3": 1}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R1 (v1)", "course": "normal", "windows": 129, "monotone_share": 0.12403100775193798, "longest_monotone_s": 19.0, "period_hist": {"1": 10, "4": 1, "6": 2, "7": 3}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R1 (v1)", "course": "easy", "windows": 130, "monotone_share": 0.05384615384615385, "longest_monotone_s": 12.0, "period_hist": {"1": 5, "4": 1, "5": 1}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 (v2)", "course": "oni", "windows": 122, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 (v2)", "course": "hard", "windows": 132, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 (v2)", "course": "normal", "windows": 130, "monotone_share": 0.06153846153846154, "longest_monotone_s": 14.0, "period_hist": {"1": 5, "3": 3}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 (v2)", "course": "easy", "windows": 124, "monotone_share": 0.07258064516129033, "longest_monotone_s": 16.0, "period_hist": {"1": 7, "7": 2}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 all games (v3)", "course": "oni", "windows": 113, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 all games (v3)", "course": "hard", "windows": 114, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 all games (v3)", "course": "normal", "windows": 130, "monotone_share": 0.046153846153846156, "longest_monotone_s": 12.0, "period_hist": {"1": 3, "5": 1, "7": 2}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R2 all games (v3)", "course": "easy", "windows": 137, "monotone_share": 0.10948905109489052, "longest_monotone_s": 18.0, "period_hist": {"3": 9, "5": 2, "7": 4}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R3 best", "course": "oni", "windows": 117, "monotone_share": 0.9145299145299145, "longest_monotone_s": 116.0, "period_hist": {"1": 107}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R3 best", "course": "hard", "windows": 130, "monotone_share": 0.2923076923076923, "longest_monotone_s": 38.0, "period_hist": {"5": 36, "6": 2}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R3 best", "course": "normal", "windows": 125, "monotone_share": 0.456, "longest_monotone_s": 46.0, "period_hist": {"1": 32, "3": 14, "6": 11}}
+{"set": "A", "song": "taiko1000_test-00004-Crystal_Hail", "source": "R3 best", "course": "easy", "windows": 125, "monotone_share": 0.584, "longest_monotone_s": 37.0, "period_hist": {"1": 30, "3": 28, "5": 14, "8": 1}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "human", "course": "oni", "windows": 78, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "human", "course": "hard", "windows": 78, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "human", "course": "normal", "windows": 78, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "human", "course": "easy", "windows": 71, "monotone_share": 0.07042253521126761, "longest_monotone_s": 11.0, "period_hist": {"5": 3, "6": 2}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R1 (v1)", "course": "oni", "windows": 77, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R1 (v1)", "course": "hard", "windows": 78, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R1 (v1)", "course": "normal", "windows": 73, "monotone_share": 0.0136986301369863, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R1 (v1)", "course": "easy", "windows": 78, "monotone_share": 0.1794871794871795, "longest_monotone_s": 14.0, "period_hist": {"3": 9, "5": 5}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 (v2)", "course": "oni", "windows": 80, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 (v2)", "course": "hard", "windows": 77, "monotone_share": 0.05194805194805195, "longest_monotone_s": 11.0, "period_hist": {"1": 4}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 (v2)", "course": "normal", "windows": 80, "monotone_share": 0.0375, "longest_monotone_s": 12.0, "period_hist": {"1": 3}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 (v2)", "course": "easy", "windows": 76, "monotone_share": 0.02631578947368421, "longest_monotone_s": 11.0, "period_hist": {"1": 2}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 all games (v3)", "course": "oni", "windows": 45, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 all games (v3)", "course": "hard", "windows": 78, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 all games (v3)", "course": "normal", "windows": 78, "monotone_share": 0.07692307692307693, "longest_monotone_s": 13.0, "period_hist": {"7": 6}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R2 all games (v3)", "course": "easy", "windows": 79, "monotone_share": 0.12658227848101267, "longest_monotone_s": 16.0, "period_hist": {"1": 7, "7": 1, "8": 2}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R3 best", "course": "oni", "windows": 78, "monotone_share": 0.5512820512820513, "longest_monotone_s": 30.0, "period_hist": {"1": 21, "5": 22}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R3 best", "course": "hard", "windows": 78, "monotone_share": 0.8076923076923077, "longest_monotone_s": 72.0, "period_hist": {"1": 63}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R3 best", "course": "normal", "windows": 76, "monotone_share": 0.14473684210526316, "longest_monotone_s": 20.0, "period_hist": {"1": 9, "4": 1, "5": 1}}
+{"set": "A", "song": "taiko1000_test-00005-Holding_Hands", "source": "R3 best", "course": "easy", "windows": 79, "monotone_share": 0.4050632911392405, "longest_monotone_s": 19.0, "period_hist": {"3": 13, "4": 10, "5": 9}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "human", "course": "oni", "windows": 101, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "human", "course": "hard", "windows": 97, "monotone_share": 0.05154639175257732, "longest_monotone_s": 12.0, "period_hist": {"8": 5}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "human", "course": "normal", "windows": 96, "monotone_share": 0.1875, "longest_monotone_s": 20.0, "period_hist": {"3": 11, "7": 7}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "human", "course": "easy", "windows": 87, "monotone_share": 0.25287356321839083, "longest_monotone_s": 23.0, "period_hist": {"3": 18, "4": 2, "5": 2}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R1 (v1)", "course": "oni", "windows": 104, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R1 (v1)", "course": "hard", "windows": 100, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R1 (v1)", "course": "normal", "windows": 96, "monotone_share": 0.020833333333333332, "longest_monotone_s": 10.0, "period_hist": {"3": 2}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R1 (v1)", "course": "easy", "windows": 75, "monotone_share": 0.30666666666666664, "longest_monotone_s": 25.0, "period_hist": {"1": 2, "2": 3, "3": 16, "4": 2}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 (v2)", "course": "oni", "windows": 97, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 (v2)", "course": "hard", "windows": 97, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 (v2)", "course": "normal", "windows": 79, "monotone_share": 0.0759493670886076, "longest_monotone_s": 11.0, "period_hist": {"1": 1, "3": 2, "4": 2, "6": 1}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 (v2)", "course": "easy", "windows": 66, "monotone_share": 0.12121212121212122, "longest_monotone_s": 13.0, "period_hist": {"1": 2, "3": 2, "4": 4}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 all games (v3)", "course": "oni", "windows": 83, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 all games (v3)", "course": "hard", "windows": 100, "monotone_share": 0.02, "longest_monotone_s": 11.0, "period_hist": {"1": 2}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 all games (v3)", "course": "normal", "windows": 105, "monotone_share": 0.14285714285714285, "longest_monotone_s": 17.0, "period_hist": {"1": 15}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R2 all games (v3)", "course": "easy", "windows": 105, "monotone_share": 0.11428571428571428, "longest_monotone_s": 14.0, "period_hist": {"1": 5, "2": 1, "4": 1, "7": 5}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R3 best", "course": "oni", "windows": 101, "monotone_share": 0.7524752475247525, "longest_monotone_s": 51.0, "period_hist": {"1": 61, "2": 1, "5": 1, "7": 13}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R3 best", "course": "hard", "windows": 101, "monotone_share": 0.8415841584158416, "longest_monotone_s": 94.0, "period_hist": {"1": 74, "7": 7, "8": 4}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R3 best", "course": "normal", "windows": 98, "monotone_share": 0.46938775510204084, "longest_monotone_s": 36.0, "period_hist": {"1": 41, "2": 2, "4": 2, "5": 1}}
+{"set": "A", "song": "taiko1000_test-00006-Dive_to_Blue", "source": "R3 best", "course": "easy", "windows": 102, "monotone_share": 0.6862745098039216, "longest_monotone_s": 48.0, "period_hist": {"1": 17, "3": 52, "5": 1}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "human", "course": "oni", "windows": 72, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "human", "course": "hard", "windows": 72, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "human", "course": "normal", "windows": 75, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "human", "course": "easy", "windows": 74, "monotone_share": 0.02702702702702703, "longest_monotone_s": 10.0, "period_hist": {"3": 1, "6": 1}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R1 (v1)", "course": "oni", "windows": 69, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R1 (v1)", "course": "hard", "windows": 76, "monotone_share": 0.02631578947368421, "longest_monotone_s": 11.0, "period_hist": {"8": 2}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R1 (v1)", "course": "normal", "windows": 73, "monotone_share": 0.0410958904109589, "longest_monotone_s": 12.0, "period_hist": {"3": 3}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R1 (v1)", "course": "easy", "windows": 40, "monotone_share": 0.325, "longest_monotone_s": 14.0, "period_hist": {"1": 8, "5": 5}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 (v2)", "course": "oni", "windows": 69, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 (v2)", "course": "hard", "windows": 76, "monotone_share": 0.10526315789473684, "longest_monotone_s": 16.0, "period_hist": {"1": 8}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 (v2)", "course": "normal", "windows": 74, "monotone_share": 0.33783783783783783, "longest_monotone_s": 19.0, "period_hist": {"1": 18, "3": 2, "5": 5}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 (v2)", "course": "easy", "windows": 68, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 all games (v3)", "course": "oni", "windows": 46, "monotone_share": 0.021739130434782608, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 all games (v3)", "course": "hard", "windows": 34, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 all games (v3)", "course": "normal", "windows": 76, "monotone_share": 0.11842105263157894, "longest_monotone_s": 14.0, "period_hist": {"3": 8, "8": 1}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R2 all games (v3)", "course": "easy", "windows": 44, "monotone_share": 0.13636363636363635, "longest_monotone_s": 12.0, "period_hist": {"1": 5, "5": 1}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R3 best", "course": "oni", "windows": 75, "monotone_share": 0.32, "longest_monotone_s": 32.0, "period_hist": {"1": 18, "5": 1, "6": 2, "7": 3}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R3 best", "course": "hard", "windows": 77, "monotone_share": 0.1038961038961039, "longest_monotone_s": 15.0, "period_hist": {"3": 2, "5": 6}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R3 best", "course": "normal", "windows": 74, "monotone_share": 0.32432432432432434, "longest_monotone_s": 15.0, "period_hist": {"1": 6, "3": 5, "7": 12, "8": 1}}
+{"set": "A", "song": "taiko1000_test-00009-レイン", "source": "R3 best", "course": "easy", "windows": 56, "monotone_share": 0.07142857142857142, "longest_monotone_s": 12.0, "period_hist": {"3": 1, "7": 3}}
+{"set": "B", "song": "Crystal_Hail", "source": "human", "course": "oni", "windows": 132, "monotone_share": 0.06060606060606061, "longest_monotone_s": 13.0, "period_hist": {"6": 8}}
+{"set": "B", "song": "Crystal_Hail", "source": "human", "course": "hard", "windows": 132, "monotone_share": 0.06060606060606061, "longest_monotone_s": 14.0, "period_hist": {"4": 7, "8": 1}}
+{"set": "B", "song": "Crystal_Hail", "source": "human", "course": "normal", "windows": 132, "monotone_share": 0.022727272727272728, "longest_monotone_s": 11.0, "period_hist": {"2": 1, "5": 2}}
+{"set": "B", "song": "Crystal_Hail", "source": "human", "course": "easy", "windows": 132, "monotone_share": 0.05303030303030303, "longest_monotone_s": 13.0, "period_hist": {"1": 7}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a oracle", "course": "oni", "windows": 129, "monotone_share": 0.015503875968992248, "longest_monotone_s": 10.0, "period_hist": {"1": 2}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a oracle", "course": "hard", "windows": 120, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a oracle", "course": "normal", "windows": 131, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a oracle", "course": "easy", "windows": 128, "monotone_share": 0.0546875, "longest_monotone_s": 16.0, "period_hist": {"1": 6, "6": 1}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a audio", "course": "oni", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a audio", "course": "hard", "windows": 133, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a audio", "course": "normal", "windows": 134, "monotone_share": 0.08208955223880597, "longest_monotone_s": 20.0, "period_hist": {"1": 10, "2": 1}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4a audio", "course": "easy", "windows": 131, "monotone_share": 0.030534351145038167, "longest_monotone_s": 13.0, "period_hist": {"7": 4}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4 final audio", "course": "oni", "windows": 133, "monotone_share": 0.007518796992481203, "longest_monotone_s": 10.0, "period_hist": {"3": 1}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4 final audio", "course": "hard", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4 final audio", "course": "normal", "windows": 132, "monotone_share": 0.045454545454545456, "longest_monotone_s": 15.0, "period_hist": {"1": 6}}
+{"set": "B", "song": "Crystal_Hail", "source": "R4 final audio", "course": "easy", "windows": 132, "monotone_share": 0.022727272727272728, "longest_monotone_s": 11.0, "period_hist": {"1": 1, "7": 2}}
+{"set": "B", "song": "Crystal_Hail", "source": "R5 RL audio", "course": "oni", "windows": 132, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R5 RL audio", "course": "hard", "windows": 133, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Crystal_Hail", "source": "R5 RL audio", "course": "normal", "windows": 132, "monotone_share": 0.06818181818181818, "longest_monotone_s": 16.0, "period_hist": {"7": 7, "8": 2}}
+{"set": "B", "song": "Crystal_Hail", "source": "R5 RL audio", "course": "easy", "windows": 132, "monotone_share": 0.13636363636363635, "longest_monotone_s": 18.0, "period_hist": {"1": 1, "3": 17}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "human", "course": "edit", "windows": 144, "monotone_share": 0.09027777777777778, "longest_monotone_s": 16.0, "period_hist": {"1": 7, "5": 1, "6": 4, "7": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "human", "course": "oni", "windows": 144, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "human", "course": "hard", "windows": 143, "monotone_share": 0.02097902097902098, "longest_monotone_s": 11.0, "period_hist": {"3": 3}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "human", "course": "normal", "windows": 141, "monotone_share": 0.0070921985815602835, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "human", "course": "easy", "windows": 128, "monotone_share": 0.09375, "longest_monotone_s": 15.0, "period_hist": {"1": 4, "3": 8}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a oracle", "course": "edit", "windows": 131, "monotone_share": 0.05343511450381679, "longest_monotone_s": 15.0, "period_hist": {"1": 7}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a oracle", "course": "oni", "windows": 147, "monotone_share": 0.013605442176870748, "longest_monotone_s": 11.0, "period_hist": {"5": 2}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a oracle", "course": "hard", "windows": 139, "monotone_share": 0.07913669064748201, "longest_monotone_s": 20.0, "period_hist": {"1": 11}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a oracle", "course": "normal", "windows": 140, "monotone_share": 0.04285714285714286, "longest_monotone_s": 13.0, "period_hist": {"1": 6}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a oracle", "course": "easy", "windows": 139, "monotone_share": 0.08633093525179857, "longest_monotone_s": 13.0, "period_hist": {"1": 1, "3": 8, "4": 1, "5": 1, "7": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a audio", "course": "edit", "windows": 145, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a audio", "course": "oni", "windows": 146, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a audio", "course": "hard", "windows": 145, "monotone_share": 0.006896551724137931, "longest_monotone_s": 10.0, "period_hist": {"3": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a audio", "course": "normal", "windows": 145, "monotone_share": 0.034482758620689655, "longest_monotone_s": 11.0, "period_hist": {"1": 3, "3": 2}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4a audio", "course": "easy", "windows": 137, "monotone_share": 0.16058394160583941, "longest_monotone_s": 17.0, "period_hist": {"1": 16, "2": 1, "3": 1, "7": 3, "8": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4 final audio", "course": "edit", "windows": 146, "monotone_share": 0.3493150684931507, "longest_monotone_s": 22.0, "period_hist": {"1": 46, "2": 2, "3": 2, "5": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4 final audio", "course": "oni", "windows": 137, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4 final audio", "course": "hard", "windows": 147, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4 final audio", "course": "normal", "windows": 150, "monotone_share": 0.006666666666666667, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R4 final audio", "course": "easy", "windows": 164, "monotone_share": 0.4573170731707317, "longest_monotone_s": 34.0, "period_hist": {"1": 65, "2": 1, "3": 1, "5": 1, "6": 1, "7": 5, "8": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R5 RL audio", "course": "edit", "windows": 147, "monotone_share": 0.006802721088435374, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R5 RL audio", "course": "oni", "windows": 146, "monotone_share": 0.03424657534246575, "longest_monotone_s": 14.0, "period_hist": {"1": 5}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R5 RL audio", "course": "hard", "windows": 147, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R5 RL audio", "course": "normal", "windows": 146, "monotone_share": 0.08904109589041095, "longest_monotone_s": 19.0, "period_hist": {"1": 7, "3": 6}}
+{"set": "B", "song": "Nivalis＊Anima", "source": "R5 RL audio", "course": "easy", "windows": 144, "monotone_share": 0.20833333333333334, "longest_monotone_s": 19.0, "period_hist": {"1": 17, "2": 1, "3": 5, "5": 1, "7": 6}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "human", "course": "edit", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "human", "course": "oni", "windows": 130, "monotone_share": 0.07692307692307693, "longest_monotone_s": 18.0, "period_hist": {"1": 10}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "human", "course": "hard", "windows": 130, "monotone_share": 0.046153846153846156, "longest_monotone_s": 15.0, "period_hist": {"1": 6}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "human", "course": "normal", "windows": 127, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "human", "course": "easy", "windows": 127, "monotone_share": 0.09448818897637795, "longest_monotone_s": 12.0, "period_hist": {"1": 8, "7": 3, "8": 1}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a oracle", "course": "edit", "windows": 123, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a oracle", "course": "oni", "windows": 126, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a oracle", "course": "hard", "windows": 126, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a oracle", "course": "normal", "windows": 125, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a oracle", "course": "easy", "windows": 131, "monotone_share": 0.366412213740458, "longest_monotone_s": 54.0, "period_hist": {"1": 48}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a audio", "course": "edit", "windows": 111, "monotone_share": 0.15315315315315314, "longest_monotone_s": 26.0, "period_hist": {"1": 17}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a audio", "course": "oni", "windows": 121, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a audio", "course": "hard", "windows": 119, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a audio", "course": "normal", "windows": 115, "monotone_share": 0.0782608695652174, "longest_monotone_s": 13.0, "period_hist": {"3": 1, "6": 2, "7": 6}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4a audio", "course": "easy", "windows": 120, "monotone_share": 0.275, "longest_monotone_s": 24.0, "period_hist": {"1": 19, "3": 7, "5": 3, "7": 4}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4 final audio", "course": "edit", "windows": 111, "monotone_share": 0.7657657657657657, "longest_monotone_s": 73.0, "period_hist": {"1": 82, "3": 2, "5": 1}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4 final audio", "course": "oni", "windows": 117, "monotone_share": 0.8376068376068376, "longest_monotone_s": 79.0, "period_hist": {"1": 96, "3": 1, "7": 1}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4 final audio", "course": "hard", "windows": 122, "monotone_share": 0.13934426229508196, "longest_monotone_s": 22.0, "period_hist": {"1": 15, "5": 2}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4 final audio", "course": "normal", "windows": 117, "monotone_share": 0.08547008547008547, "longest_monotone_s": 18.0, "period_hist": {"1": 4, "3": 5, "5": 1}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R4 final audio", "course": "easy", "windows": 123, "monotone_share": 0.17073170731707318, "longest_monotone_s": 29.0, "period_hist": {"1": 20, "5": 1}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio", "course": "edit", "windows": 119, "monotone_share": 0.6974789915966386, "longest_monotone_s": 50.0, "period_hist": {"1": 79, "2": 1, "3": 1, "5": 2}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio", "course": "oni", "windows": 111, "monotone_share": 0.36036036036036034, "longest_monotone_s": 39.0, "period_hist": {"1": 33, "3": 2, "5": 1, "7": 4}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio", "course": "hard", "windows": 120, "monotone_share": 0.15833333333333333, "longest_monotone_s": 27.0, "period_hist": {"1": 16, "3": 2, "5": 1}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio", "course": "normal", "windows": 119, "monotone_share": 0.03361344537815126, "longest_monotone_s": 12.0, "period_hist": {"3": 1, "7": 3}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio", "course": "easy", "windows": 120, "monotone_share": 0.075, "longest_monotone_s": 15.0, "period_hist": {"1": 3, "2": 1, "3": 2, "4": 1, "7": 2}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio x2 grid", "course": "edit", "windows": 127, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio x2 grid", "course": "oni", "windows": 122, "monotone_share": 0.01639344262295082, "longest_monotone_s": 10.0, "period_hist": {"2": 2}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio x2 grid", "course": "hard", "windows": 125, "monotone_share": 0.016, "longest_monotone_s": 11.0, "period_hist": {"1": 2}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio x2 grid", "course": "normal", "windows": 127, "monotone_share": 0.031496062992125984, "longest_monotone_s": 12.0, "period_hist": {"1": 1, "3": 3}}
+{"set": "B", "song": "銀の黎明か、黒の晶華か。", "source": "R5 RL audio x2 grid", "course": "easy", "windows": 123, "monotone_share": 0.06504065040650407, "longest_monotone_s": 15.0, "period_hist": {"1": 6, "3": 2}}
+{"set": "B", "song": "魔宵月", "source": "human", "course": "edit", "windows": 118, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "魔宵月", "source": "human", "course": "oni", "windows": 118, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "魔宵月", "source": "human", "course": "hard", "windows": 116, "monotone_share": 0.017241379310344827, "longest_monotone_s": 11.0, "period_hist": {"1": 2}}
+{"set": "B", "song": "魔宵月", "source": "human", "course": "normal", "windows": 115, "monotone_share": 0.017391304347826087, "longest_monotone_s": 11.0, "period_hist": {"3": 2}}
+{"set": "B", "song": "魔宵月", "source": "human", "course": "easy", "windows": 109, "monotone_share": 0.009174311926605505, "longest_monotone_s": 10.0, "period_hist": {"5": 1}}
+{"set": "B", "song": "魔宵月", "source": "R4a oracle", "course": "edit", "windows": 249, "monotone_share": 0.3253012048192771, "longest_monotone_s": 35.0, "period_hist": {"1": 76, "2": 1, "3": 3, "5": 1}}
+{"set": "B", "song": "魔宵月", "source": "R4a oracle", "course": "oni", "windows": 245, "monotone_share": 0.23673469387755103, "longest_monotone_s": 43.0, "period_hist": {"1": 48, "2": 1, "3": 5, "7": 1, "8": 3}}
+{"set": "B", "song": "魔宵月", "source": "R4a oracle", "course": "hard", "windows": 232, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "魔宵月", "source": "R4a oracle", "course": "normal", "windows": 104, "monotone_share": 0.8173076923076923, "longest_monotone_s": 94.0, "period_hist": {"1": 84, "8": 1}}
+{"set": "B", "song": "魔宵月", "source": "R4a oracle", "course": "easy", "windows": 128, "monotone_share": 0.8984375, "longest_monotone_s": 80.0, "period_hist": {"1": 115}}
+{"set": "B", "song": "魔宵月", "source": "R4a audio", "course": "edit", "windows": 114, "monotone_share": 0.02631578947368421, "longest_monotone_s": 12.0, "period_hist": {"3": 3}}
+{"set": "B", "song": "魔宵月", "source": "R4a audio", "course": "oni", "windows": 119, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "魔宵月", "source": "R4a audio", "course": "hard", "windows": 117, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "魔宵月", "source": "R4a audio", "course": "normal", "windows": 114, "monotone_share": 0.07894736842105263, "longest_monotone_s": 13.0, "period_hist": {"1": 4, "3": 1, "7": 4}}
+{"set": "B", "song": "魔宵月", "source": "R4a audio", "course": "easy", "windows": 108, "monotone_share": 0.2037037037037037, "longest_monotone_s": 19.0, "period_hist": {"1": 17, "2": 1, "4": 1, "5": 1, "6": 2}}
+{"set": "B", "song": "魔宵月", "source": "R4 final audio", "course": "edit", "windows": 121, "monotone_share": 0.10743801652892562, "longest_monotone_s": 20.0, "period_hist": {"1": 12, "3": 1}}
+{"set": "B", "song": "魔宵月", "source": "R4 final audio", "course": "oni", "windows": 123, "monotone_share": 0.04878048780487805, "longest_monotone_s": 15.0, "period_hist": {"1": 3, "2": 2, "5": 1}}
+{"set": "B", "song": "魔宵月", "source": "R4 final audio", "course": "hard", "windows": 117, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "B", "song": "魔宵月", "source": "R4 final audio", "course": "normal", "windows": 113, "monotone_share": 0.02654867256637168, "longest_monotone_s": 11.0, "period_hist": {"1": 1, "4": 2}}
+{"set": "B", "song": "魔宵月", "source": "R4 final audio", "course": "easy", "windows": 96, "monotone_share": 0.16666666666666666, "longest_monotone_s": 17.0, "period_hist": {"1": 14, "3": 1, "5": 1}}
+{"set": "B", "song": "魔宵月", "source": "R5 RL audio", "course": "edit", "windows": 103, "monotone_share": 0.5145631067961165, "longest_monotone_s": 61.0, "period_hist": {"1": 52, "7": 1}}
+{"set": "B", "song": "魔宵月", "source": "R5 RL audio", "course": "oni", "windows": 117, "monotone_share": 0.008547008547008548, "longest_monotone_s": 10.0, "period_hist": {"1": 1}}
+{"set": "B", "song": "魔宵月", "source": "R5 RL audio", "course": "hard", "windows": 117, "monotone_share": 0.13675213675213677, "longest_monotone_s": 17.0, "period_hist": {"1": 14, "4": 1, "5": 1}}
+{"set": "B", "song": "魔宵月", "source": "R5 RL audio", "course": "normal", "windows": 119, "monotone_share": 0.07563025210084033, "longest_monotone_s": 13.0, "period_hist": {"3": 7, "8": 2}}
+{"set": "B", "song": "魔宵月", "source": "R5 RL audio", "course": "easy", "windows": 114, "monotone_share": 0.13157894736842105, "longest_monotone_s": 15.0, "period_hist": {"2": 1, "3": 11, "4": 1, "6": 1, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R3", "course": "edit", "windows": 146, "monotone_share": 0.1095890410958904, "longest_monotone_s": 24.0, "period_hist": {"1": 12, "3": 3, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R3", "course": "oni", "windows": 146, "monotone_share": 0.4726027397260274, "longest_monotone_s": 49.0, "period_hist": {"1": 69}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R3", "course": "edit", "windows": 145, "monotone_share": 0.15862068965517243, "longest_monotone_s": 23.0, "period_hist": {"1": 20, "3": 1, "7": 2}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R3", "course": "oni", "windows": 147, "monotone_share": 0.047619047619047616, "longest_monotone_s": 16.0, "period_hist": {"1": 6, "4": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R3", "course": "edit", "windows": 147, "monotone_share": 0.2857142857142857, "longest_monotone_s": 31.0, "period_hist": {"1": 41, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R3", "course": "oni", "windows": 144, "monotone_share": 0.24305555555555555, "longest_monotone_s": 19.0, "period_hist": {"1": 24, "3": 1, "7": 10}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s0.tja", "source": "R3", "course": "oni", "windows": 126, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s1.tja", "source": "R3", "course": "oni", "windows": 132, "monotone_share": 0.1590909090909091, "longest_monotone_s": 30.0, "period_hist": {"1": 21}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s2.tja", "source": "R3", "course": "oni", "windows": 130, "monotone_share": 0.06923076923076923, "longest_monotone_s": 18.0, "period_hist": {"1": 9}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R3", "course": "edit", "windows": 123, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R3", "course": "oni", "windows": 125, "monotone_share": 0.336, "longest_monotone_s": 22.0, "period_hist": {"1": 39, "3": 1, "5": 1, "8": 1}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R3", "course": "edit", "windows": 114, "monotone_share": 0.13157894736842105, "longest_monotone_s": 21.0, "period_hist": {"1": 15}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R3", "course": "oni", "windows": 127, "monotone_share": 0.1732283464566929, "longest_monotone_s": 20.0, "period_hist": {"1": 20, "3": 2}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R3", "course": "edit", "windows": 117, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R3", "course": "oni", "windows": 124, "monotone_share": 0.3629032258064516, "longest_monotone_s": 39.0, "period_hist": {"1": 36, "2": 7, "3": 2}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R3", "course": "edit", "windows": 119, "monotone_share": 0.3025210084033613, "longest_monotone_s": 30.0, "period_hist": {"1": 36}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R3", "course": "oni", "windows": 119, "monotone_share": 0.7647058823529411, "longest_monotone_s": 44.0, "period_hist": {"1": 83, "3": 2, "6": 1, "7": 5}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R3", "course": "edit", "windows": 122, "monotone_share": 0.12295081967213115, "longest_monotone_s": 24.0, "period_hist": {"1": 13, "3": 2}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R3", "course": "oni", "windows": 121, "monotone_share": 0.30578512396694213, "longest_monotone_s": 24.0, "period_hist": {"1": 29, "2": 1, "3": 1, "7": 6}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R3", "course": "edit", "windows": 121, "monotone_share": 0.1487603305785124, "longest_monotone_s": 27.0, "period_hist": {"1": 17, "3": 1}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R3", "course": "oni", "windows": 121, "monotone_share": 0.5206611570247934, "longest_monotone_s": 31.0, "period_hist": {"1": 49, "3": 1, "5": 9, "6": 2, "7": 2}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R4a", "course": "edit", "windows": 146, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R4a", "course": "oni", "windows": 138, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R4a", "course": "edit", "windows": 146, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R4a", "course": "oni", "windows": 147, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R4a", "course": "edit", "windows": 147, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R4a", "course": "oni", "windows": 147, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s0.tja", "source": "R4a", "course": "oni", "windows": 129, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s1.tja", "source": "R4a", "course": "oni", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s2.tja", "source": "R4a", "course": "oni", "windows": 132, "monotone_share": 0.12878787878787878, "longest_monotone_s": 17.0, "period_hist": {"2": 16, "4": 1}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R4a", "course": "edit", "windows": 115, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R4a", "course": "oni", "windows": 111, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R4a", "course": "edit", "windows": 114, "monotone_share": 0.09649122807017543, "longest_monotone_s": 15.0, "period_hist": {"1": 7, "3": 1, "4": 1, "5": 1, "7": 1}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R4a", "course": "oni", "windows": 120, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R4a", "course": "edit", "windows": 119, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R4a", "course": "oni", "windows": 115, "monotone_share": 0.017391304347826087, "longest_monotone_s": 10.0, "period_hist": {"1": 1, "3": 1}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R4a", "course": "edit", "windows": 106, "monotone_share": 0.0660377358490566, "longest_monotone_s": 16.0, "period_hist": {"1": 7}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R4a", "course": "oni", "windows": 118, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R4a", "course": "edit", "windows": 121, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R4a", "course": "oni", "windows": 120, "monotone_share": 0.016666666666666666, "longest_monotone_s": 11.0, "period_hist": {"1": 2}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R4a", "course": "edit", "windows": 396, "monotone_share": 0.1590909090909091, "longest_monotone_s": 26.0, "period_hist": {"1": 25, "2": 2, "3": 5, "4": 5, "5": 7, "6": 11, "7": 7, "8": 1}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R4a", "course": "oni", "windows": 117, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R4 final", "course": "edit", "windows": 279, "monotone_share": 0.26881720430107525, "longest_monotone_s": 46.0, "period_hist": {"1": 69, "5": 1, "7": 5}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R4 final", "course": "oni", "windows": 142, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R4 final", "course": "edit", "windows": 145, "monotone_share": 0.2620689655172414, "longest_monotone_s": 28.0, "period_hist": {"1": 38}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R4 final", "course": "oni", "windows": 196, "monotone_share": 0.11734693877551021, "longest_monotone_s": 30.0, "period_hist": {"1": 23}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R4 final", "course": "edit", "windows": 146, "monotone_share": 0.3082191780821918, "longest_monotone_s": 30.0, "period_hist": {"1": 42, "3": 2, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R4 final", "course": "oni", "windows": 156, "monotone_share": 0.26282051282051283, "longest_monotone_s": 41.0, "period_hist": {"1": 38, "3": 3}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s0.tja", "source": "R4 final", "course": "oni", "windows": 131, "monotone_share": 0.1297709923664122, "longest_monotone_s": 24.0, "period_hist": {"1": 14, "4": 1, "5": 1, "6": 1}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s1.tja", "source": "R4 final", "course": "oni", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s2.tja", "source": "R4 final", "course": "oni", "windows": 132, "monotone_share": 0.3712121212121212, "longest_monotone_s": 26.0, "period_hist": {"2": 49}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R4 final", "course": "edit", "windows": 234, "monotone_share": 0.9615384615384616, "longest_monotone_s": 234.0, "period_hist": {"1": 217, "3": 1, "5": 7}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R4 final", "course": "oni", "windows": 134, "monotone_share": 0.5373134328358209, "longest_monotone_s": 45.0, "period_hist": {"1": 69, "3": 3}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R4 final", "course": "edit", "windows": 121, "monotone_share": 0.5867768595041323, "longest_monotone_s": 50.0, "period_hist": {"1": 67, "4": 1, "5": 1, "8": 2}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R4 final", "course": "oni", "windows": 104, "monotone_share": 0.2980769230769231, "longest_monotone_s": 24.0, "period_hist": {"1": 27, "5": 1, "7": 3}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R4 final", "course": "edit", "windows": 119, "monotone_share": 0.8151260504201681, "longest_monotone_s": 106.0, "period_hist": {"1": 95, "3": 2}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R4 final", "course": "oni", "windows": 114, "monotone_share": 0.6491228070175439, "longest_monotone_s": 75.0, "period_hist": {"1": 70, "2": 1, "3": 1, "5": 2}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R4 final", "course": "edit", "windows": 121, "monotone_share": 0.3305785123966942, "longest_monotone_s": 33.0, "period_hist": {"1": 31, "3": 9}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R4 final", "course": "oni", "windows": 115, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R4 final", "course": "edit", "windows": 121, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R4 final", "course": "oni", "windows": 117, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R4 final", "course": "edit", "windows": 120, "monotone_share": 0.1, "longest_monotone_s": 21.0, "period_hist": {"1": 10, "3": 2}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R4 final", "course": "oni", "windows": 120, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R5 SFT", "course": "edit", "windows": 135, "monotone_share": 0.08148148148148149, "longest_monotone_s": 15.0, "period_hist": {"1": 7, "3": 3, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R5 SFT", "course": "oni", "windows": 147, "monotone_share": 0.034013605442176874, "longest_monotone_s": 12.0, "period_hist": {"1": 4, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R5 SFT", "course": "edit", "windows": 146, "monotone_share": 0.1232876712328767, "longest_monotone_s": 18.0, "period_hist": {"1": 16, "2": 1, "4": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R5 SFT", "course": "oni", "windows": 148, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R5 SFT", "course": "edit", "windows": 141, "monotone_share": 0.20567375886524822, "longest_monotone_s": 18.0, "period_hist": {"1": 27, "3": 1, "7": 1}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R5 SFT", "course": "oni", "windows": 132, "monotone_share": 0.2803030303030303, "longest_monotone_s": 30.0, "period_hist": {"1": 31, "2": 2, "6": 1, "7": 3}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s0.tja", "source": "R5 SFT", "course": "oni", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s1.tja", "source": "R5 SFT", "course": "oni", "windows": 130, "monotone_share": 0.007692307692307693, "longest_monotone_s": 10.0, "period_hist": {"7": 1}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s2.tja", "source": "R5 SFT", "course": "oni", "windows": 133, "monotone_share": 0.022556390977443608, "longest_monotone_s": 11.0, "period_hist": {"1": 3}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R5 SFT", "course": "edit", "windows": 243, "monotone_share": 0.2222222222222222, "longest_monotone_s": 62.0, "period_hist": {"1": 40, "7": 14}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R5 SFT", "course": "oni", "windows": 123, "monotone_share": 0.2682926829268293, "longest_monotone_s": 32.0, "period_hist": {"1": 33}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R5 SFT", "course": "edit", "windows": 120, "monotone_share": 0.4583333333333333, "longest_monotone_s": 35.0, "period_hist": {"1": 45, "3": 7, "5": 3}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R5 SFT", "course": "oni", "windows": 115, "monotone_share": 0.14782608695652175, "longest_monotone_s": 20.0, "period_hist": {"1": 17}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R5 SFT", "course": "edit", "windows": 123, "monotone_share": 0.22764227642276422, "longest_monotone_s": 24.0, "period_hist": {"1": 21, "3": 7}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R5 SFT", "course": "oni", "windows": 109, "monotone_share": 0.23853211009174313, "longest_monotone_s": 24.0, "period_hist": {"1": 26}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R5 SFT", "course": "edit", "windows": 110, "monotone_share": 0.02727272727272727, "longest_monotone_s": 12.0, "period_hist": {"1": 3}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R5 SFT", "course": "oni", "windows": 118, "monotone_share": 0.11864406779661017, "longest_monotone_s": 18.0, "period_hist": {"1": 7, "2": 2, "4": 5}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R5 SFT", "course": "edit", "windows": 118, "monotone_share": 0.0423728813559322, "longest_monotone_s": 14.0, "period_hist": {"3": 5}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R5 SFT", "course": "oni", "windows": 84, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R5 SFT", "course": "edit", "windows": 118, "monotone_share": 0.05084745762711865, "longest_monotone_s": 15.0, "period_hist": {"1": 6}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R5 SFT", "course": "oni", "windows": 116, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R5 RL v2", "course": "edit", "windows": 144, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s0.tja", "source": "R5 RL v2", "course": "oni", "windows": 147, "monotone_share": 0.013605442176870748, "longest_monotone_s": 11.0, "period_hist": {"3": 2}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R5 RL v2", "course": "edit", "windows": 135, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s1.tja", "source": "R5 RL v2", "course": "oni", "windows": 144, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R5 RL v2", "course": "edit", "windows": 147, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "Nivalis＊Anima-s2.tja", "source": "R5 RL v2", "course": "oni", "windows": 146, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s0.tja", "source": "R5 RL v2", "course": "oni", "windows": 130, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s1.tja", "source": "R5 RL v2", "course": "oni", "windows": 131, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "taiko1000_test-00004-Crystal_Hail-s2.tja", "source": "R5 RL v2", "course": "oni", "windows": 133, "monotone_share": 0.16541353383458646, "longest_monotone_s": 18.0, "period_hist": {"2": 20, "3": 2}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R5 RL v2", "course": "edit", "windows": 248, "monotone_share": 0.7298387096774194, "longest_monotone_s": 89.0, "period_hist": {"1": 155, "5": 3, "7": 23}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s0.tja", "source": "R5 RL v2", "course": "oni", "windows": 115, "monotone_share": 0.591304347826087, "longest_monotone_s": 62.0, "period_hist": {"1": 67, "3": 1}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R5 RL v2", "course": "edit", "windows": 121, "monotone_share": 0.8016528925619835, "longest_monotone_s": 60.0, "period_hist": {"1": 87, "2": 2, "3": 5, "7": 3}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s1.tja", "source": "R5 RL v2", "course": "oni", "windows": 120, "monotone_share": 0.4166666666666667, "longest_monotone_s": 44.0, "period_hist": {"1": 40, "5": 5, "7": 5}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R5 RL v2", "course": "edit", "windows": 114, "monotone_share": 0.7543859649122807, "longest_monotone_s": 43.0, "period_hist": {"1": 80, "3": 2, "5": 2, "7": 2}}
+{"set": "C", "song": "銀の黎明か、黒の晶華か。-s2.tja", "source": "R5 RL v2", "course": "oni", "windows": 119, "monotone_share": 0.2773109243697479, "longest_monotone_s": 34.0, "period_hist": {"1": 30, "5": 2, "7": 1}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R5 RL v2", "course": "edit", "windows": 121, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s0.tja", "source": "R5 RL v2", "course": "oni", "windows": 122, "monotone_share": 0.01639344262295082, "longest_monotone_s": 10.0, "period_hist": {"1": 1, "7": 1}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R5 RL v2", "course": "edit", "windows": 119, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s1.tja", "source": "R5 RL v2", "course": "oni", "windows": 120, "monotone_share": 0.008333333333333333, "longest_monotone_s": 10.0, "period_hist": {"4": 1}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R5 RL v2", "course": "edit", "windows": 117, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}
+{"set": "C", "song": "魔宵月-s2.tja", "source": "R5 RL v2", "course": "oni", "windows": 116, "monotone_share": 0.0, "longest_monotone_s": 0.0, "period_hist": {}}

@@ -1,0 +1,53 @@
+id = "maimai_dx"
+name = "maimai DX"
+family = "ring"
+accent_modifiers = ["break"]
+controls = ["scroll", "section"]
+notes = "Buttons 1-8 clockwise from top-right (RingButton 0-7). A slide's star head is a separate maimai:star event sharing a group with its slides; a slide's motion timing lives on its path segments."
+
+[space]
+kind = "ring"
+buttons = 8
+regions = [
+  "A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8",
+  "B1", "B2", "B3", "B4", "B5", "B6", "B7", "B8",
+  "C", "C1", "C2",
+  "D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8",
+  "E1", "E2", "E3", "E4", "E5", "E6", "E7", "E8",
+]
+
+[roles."maimai:tap"]
+primitives = ["hit"]
+modifiers = ["break", "ex", "firework", "mine"]
+targets = ["ring"]
+
+[roles."maimai:star"]
+primitives = ["hit"]
+modifiers = ["break", "ex", "firework", "mine"]
+targets = ["ring"]
+description = "Star-shaped tap that starts one or more slides."
+
+[roles."maimai:hold"]
+primitives = ["hold"]
+modifiers = ["break", "ex", "firework", "mine"]
+targets = ["ring"]
+
+[roles."maimai:slide"]
+primitives = ["path"]
+modifiers = ["break"]
+targets = ["ring"]
+
+[roles."maimai:touch"]
+primitives = ["hit"]
+modifiers = ["break", "ex", "firework", "mine"]
+targets = ["region"]
+
+[roles."maimai:touch_hold"]
+primitives = ["hold"]
+modifiers = ["break", "ex", "firework", "mine"]
+targets = ["region"]
+
+[difficulty]
+labels = ["Easy", "Basic", "Advanced", "Expert", "Master", "Re:Master", "Utage"]
+level_min = 1
+level_max = 15

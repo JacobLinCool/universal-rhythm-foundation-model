@@ -1,0 +1,151 @@
+{
+  "train": {
+    "data": "/content/data/urfm-ingest-v0",
+    "sources": [
+      "taiko1000",
+      "osu"
+    ],
+    "mechanics": [],
+    "alpha": 0.5,
+    "size": "15m",
+    "max_dec_len": 2048,
+    "song_context": true,
+    "batch_size": 64,
+    "grad_accum": 1,
+    "lr": 0.0003,
+    "min_lr_ratio": 0.1,
+    "weight_decay": 0.01,
+    "warmup": 500,
+    "steps": 8000,
+    "clip": 1.0,
+    "workers": 10,
+    "compile": true,
+    "device": "cuda",
+    "seed": 0,
+    "log_every": 100,
+    "eval_every": 1000,
+    "eval_windows": 512,
+    "ckpt_every": 2000,
+    "out": "/content/runs/r3-all-song",
+    "init": null,
+    "hub_repo": "JacobLinCool/urfm-runs"
+  },
+  "model": {
+    "vocab_size": 817,
+    "frame_feat_dim": 7,
+    "n_mels": 128,
+    "d_model": 384,
+    "enc_layers": 4,
+    "dec_layers": 3,
+    "n_heads": 6,
+    "ff_mult": 4,
+    "emb_dim": null,
+    "max_enc_len": 704,
+    "max_dec_len": 2048,
+    "dropout": 0.0,
+    "memory_tokens": 0,
+    "song_context": true,
+    "song_layers": 2,
+    "song_max": 256
+  },
+  "params": {
+    "total": 19846656,
+    "encoder_layers": 7091712,
+    "decoder_layers": 7090560,
+    "embedding": 313728
+  },
+  "vocab_hash": "7b2c21ead1522776",
+  "train_charts": {
+    "osu_mania": 25878,
+    "osu_catch": 11245,
+    "osu_taiko": 32639,
+    "osu_std": 37696,
+    "taiko": 4023
+  },
+  "val_charts": {
+    "osu_taiko": 674,
+    "osu_mania": 659,
+    "osu_std": 1697,
+    "osu_catch": 230,
+    "taiko": 387
+  },
+  "tiers": {
+    "edges": {
+      "osu_mania": [
+        3.7594,
+        5.2148,
+        6.5305,
+        8.4384
+      ],
+      "osu_catch": [
+        2.1372,
+        2.8839,
+        3.6221,
+        4.6232
+      ],
+      "osu_taiko": [
+        2.3786,
+        3.744,
+        5.0075,
+        6.4865
+      ],
+      "osu_std": [
+        1.6628,
+        2.5909,
+        3.4076,
+        4.2412
+      ],
+      "taiko": [
+        1.4587,
+        2.1453,
+        3.2844,
+        4.8221
+      ]
+    },
+    "centers": {
+      "osu_mania": [
+        2.9722,
+        4.5312,
+        5.8447,
+        7.3911,
+        10.1333
+      ],
+      "osu_catch": [
+        1.7353,
+        2.5058,
+        3.2613,
+        4.0513,
+        5.5747
+      ],
+      "osu_taiko": [
+        1.6474,
+        3.0714,
+        4.3647,
+        5.6991,
+        7.6904
+      ],
+      "osu_std": [
+        1.2152,
+        2.149,
+        3.0023,
+        3.8015,
+        4.8611
+      ],
+      "taiko": [
+        1.177,
+        1.7709,
+        2.6832,
+        3.9564,
+        6.0143
+      ]
+    }
+  },
+  "val_pipeline": {
+    "osu_mania/truncated": 46,
+    "osu_mania/truncated_windows": 2,
+    "osu_taiko/truncated_windows": 0,
+    "osu_std/truncated_windows": 0,
+    "osu_catch/truncated_windows": 0,
+    "taiko/truncated_windows": 0
+  }
+}

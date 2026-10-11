@@ -1,0 +1,57 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 1500
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+
+[Editor]
+Bookmarks: 1000,2000
+DistanceSpacing: 1.2
+BeatDivisor: 4
+
+[Metadata]
+Title:Mania 4K
+TitleUnicode:Mania 4K
+Artist:URFM Fixtures
+ArtistUnicode:URFM Fixtures
+Creator:urfm
+Version:4K Hard
+Source:
+Tags:fixture test
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+2,5000,7000
+//Storyboard Layer 0 (Background)
+
+[TimingPoints]
+100,300,4,1,0,40,1,0
+100,-100,4,1,0,40,0,0
+3100,-200,4,1,0,40,0,1
+
+[HitObjects]
+64,192,100,1,0,0:0:0:0:
+192,192,100,1,0,0:0:0:0:
+320,192,175,1,0,0:0:0:0:
+448,192,250,128,0,550:0:0:0:0:
+64,192,325,1,0,0:0:0:0:
+192,192,400,1,0,0:0:0:0:
+320,192,400,128,2,1000:1:2:70:hit.wav
+64,192,3100,1,0,0:0:0:0:
+448,192,3175,1,0,0:0:0:0:

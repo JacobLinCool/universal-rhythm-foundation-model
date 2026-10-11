@@ -1,0 +1,62 @@
+id = "sm_pump_double"
+name = "StepMania pump-double"
+family = "lane"
+controls = ["scroll", "section", "sm:speed", "sm:fake", "sm:combo", "sm:tickcount"]
+notes = "StepMania-engine 'pump-double' charts (.sm/.ssc)."
+
+[space]
+kind = "lanes"
+lanes = 10
+
+[roles."sm:tap"]
+primitives = ["hit"]
+targets = ["lane"]
+
+[roles."sm:hold"]
+primitives = ["hold"]
+targets = ["lane"]
+
+[roles."sm:roll"]
+primitives = ["hold"]
+targets = ["lane"]
+description = "Hold that must be re-tapped repeatedly."
+
+[roles."sm:mine"]
+primitives = ["hit"]
+interactive = false
+targets = ["lane"]
+description = "Must be avoided."
+
+[roles."sm:lift"]
+primitives = ["hit"]
+targets = ["lane"]
+description = "Release instead of press."
+
+[roles."sm:fake"]
+primitives = ["hit"]
+interactive = false
+targets = ["lane"]
+description = "Visual only; not judged."
+
+[roles."sm:keysound"]
+primitives = ["hit"]
+interactive = false
+targets = ["lane"]
+description = "Auto-played keysound note (K)."
+
+[roles."sm:attack"]
+primitives = ["hit"]
+targets = ["lane"]
+description = "Attack (modifier) note (A)."
+
+[roles."sm:other"]
+primitives = ["hit"]
+targets = ["lane"]
+description = "Cell outside the core note alphabet (StepF2 groups, vendor letters, stray tails); the verbatim cell is in native['cell'] or native['char']."
+
+[constraints]
+exclusive_holds = true
+
+[difficulty]
+labels = ["Beginner", "Easy", "Medium", "Hard", "Challenge", "Edit"]
+level_min = 1

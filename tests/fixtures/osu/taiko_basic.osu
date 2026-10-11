@@ -1,0 +1,61 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 1500
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 1
+
+[Editor]
+Bookmarks: 1000,2000
+DistanceSpacing: 1.2
+BeatDivisor: 4
+
+[Metadata]
+Title:Taiko Basic
+TitleUnicode:Taiko Basic
+Artist:URFM Fixtures
+ArtistUnicode:URFM Fixtures
+Creator:urfm
+Version:Oni
+Source:
+Tags:fixture test
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+2,5000,7000
+//Storyboard Layer 0 (Background)
+
+[TimingPoints]
+0,375,4,1,0,100,1,0
+6000,-50,4,1,0,100,0,1
+12000,-100,4,1,0,100,0,0
+
+[HitObjects]
+256,192,0,1,0,0:0:0:0:
+256,192,187,1,8,0:0:0:0:
+256,192,375,1,2,0:0:0:0:
+256,192,562,1,4,0:0:0:0:
+256,192,750,1,12,0:0:0:0:
+256,192,937,1,6,0:0:0:0:
+256,192,1125,1,10,0:0:0:0:
+256,192,1500,2,0,L|456:192,1,200
+256,192,3000,2,4,L|356:192,2,100,0|0|0,0:0|0:0|0:0,0:0:0:0:
+256,192,4500,12,0,5625,0:0:0:0:
+416,192,6000,1,0,0:0:0:0:
+256,192,6093,1,8,0:0:0:0:
+256,192,6187,5,0,0:0:0:0:

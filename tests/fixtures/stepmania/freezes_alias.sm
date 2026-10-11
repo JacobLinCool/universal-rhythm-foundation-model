@@ -1,0 +1,16 @@
+#TITLE:Freezes alias;
+#OFFSET:0;
+#BPMS:0=100;
+#FREEZES:1=0.3,3=0.1;
+
+#NOTES:
+     dance-single:
+     :
+     Easy:
+     2:
+     :
+1000
+0100
+0010
+0001
+;

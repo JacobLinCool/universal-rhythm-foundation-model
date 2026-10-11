@@ -1,0 +1,25 @@
+id = "osu_catch"
+name = "osu!catch"
+family = "plane"
+controls = ["highlight", "osu:sv", "barline", "osu:red_line"]
+notes = "Only x matters for gameplay; y is kept for lossless round-trips."
+
+[space]
+kind = "plane"
+width = 512
+height = 384
+
+[roles."catch:fruit"]
+primitives = ["hit"]
+targets = ["point"]
+
+[roles."catch:juice_stream"]
+primitives = ["path"]
+targets = ["point"]
+
+[roles."catch:banana_shower"]
+primitives = ["repeat"]
+
+[difficulty]
+labels = ["cup", "salad", "platter", "rain", "overdose"]
+level_min = 0

@@ -1,0 +1,5 @@
+&title=Slide Chains
+&artist=URFM
+&inote_5=
+(140){1}1-4q7-2[2:1],1-4[8:1]q7[8:1]-2[8:1],3V57-1[4:3],
+E

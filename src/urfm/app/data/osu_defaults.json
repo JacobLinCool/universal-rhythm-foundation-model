@@ -1,0 +1,165 @@
+{
+ "_mania_lanes": {
+  "1": 15,
+  "2": 5,
+  "4": 18436,
+  "5": 641,
+  "6": 888,
+  "7": 4745,
+  "8": 261,
+  "9": 190,
+  "10": 481,
+  "12": 38,
+  "14": 9,
+  "16": 44,
+  "18": 31
+ },
+ "osu_mania": {
+  "easy": {
+   "charts": 3097,
+   "log2_rate": 1.5715412378311158,
+   "log2_peak_rate": 2.0,
+   "log2p_scroll_per_min": 1.6724278926849365,
+   "log2p_meter_per_min": 0.0
+  },
+  "normal": {
+   "charts": 5743,
+   "log2_rate": 2.1798846244812013,
+   "log2_peak_rate": 2.5849626064300537,
+   "log2p_scroll_per_min": 1.7041065692901611,
+   "log2p_meter_per_min": 0.0
+  },
+  "hard": {
+   "charts": 7630,
+   "log2_rate": 2.547132134437561,
+   "log2_peak_rate": 2.906890630722046,
+   "log2p_scroll_per_min": 1.8254915475845337,
+   "log2p_meter_per_min": 0.0
+  },
+  "insane": {
+   "charts": 6930,
+   "log2_rate": 2.885782527923584,
+   "log2_peak_rate": 3.321928024291992,
+   "log2p_scroll_per_min": 1.8378616571426392,
+   "log2p_meter_per_min": 0.0
+  },
+  "expert": {
+   "charts": 3877,
+   "log2_rate": 3.341031312942505,
+   "log2_peak_rate": 3.7169909477233887,
+   "log2p_scroll_per_min": 1.6051973104476929,
+   "log2p_meter_per_min": 0.0
+  }
+ },
+ "osu_catch": {
+  "easy": {
+   "charts": 1472,
+   "log2_rate": 0.7951927185058594,
+   "log2_peak_rate": 1.3219281435012817,
+   "log2p_scroll_per_min": 4.022423028945923,
+   "log2p_meter_per_min": 0.0
+  },
+  "normal": {
+   "charts": 2609,
+   "log2_rate": 1.3252469778060911,
+   "log2_peak_rate": 1.8073549270629883,
+   "log2p_scroll_per_min": 4.165218830108643,
+   "log2p_meter_per_min": 0.0
+  },
+  "hard": {
+   "charts": 3354,
+   "log2_rate": 1.7054582834243774,
+   "log2_peak_rate": 2.1699249744415283,
+   "log2p_scroll_per_min": 4.325613975524902,
+   "log2p_meter_per_min": 0.0
+  },
+  "insane": {
+   "charts": 3223,
+   "log2_rate": 2.018371105194092,
+   "log2_peak_rate": 2.4594316482543945,
+   "log2p_scroll_per_min": 4.502500534057617,
+   "log2p_meter_per_min": 0.0
+  },
+  "expert": {
+   "charts": 1661,
+   "log2_rate": 2.4788915157318114,
+   "log2_peak_rate": 3.0,
+   "log2p_scroll_per_min": 4.770478248596191,
+   "log2p_meter_per_min": 0.0
+  }
+ },
+ "osu_taiko": {
+  "easy": {
+   "charts": 3316,
+   "log2_rate": 0.7202161848545074,
+   "log2_peak_rate": 1.2326607704162598,
+   "log2p_scroll_per_min": 2.9822473526000977,
+   "log2p_meter_per_min": 0.0
+  },
+  "normal": {
+   "charts": 5201,
+   "log2_rate": 1.618917596340179,
+   "log2_peak_rate": 2.0,
+   "log2p_scroll_per_min": 3.1292917728424072,
+   "log2p_meter_per_min": 0.0
+  },
+  "hard": {
+   "charts": 7731,
+   "log2_rate": 2.1258978843688965,
+   "log2_peak_rate": 2.5849626064300537,
+   "log2p_scroll_per_min": 3.3704583644866943,
+   "log2p_meter_per_min": 0.0
+  },
+  "insane": {
+   "charts": 8471,
+   "log2_rate": 2.5107460021972656,
+   "log2_peak_rate": 2.906890630722046,
+   "log2p_scroll_per_min": 4.020138740539551,
+   "log2p_meter_per_min": 0.0
+  },
+  "expert": {
+   "charts": 5330,
+   "log2_rate": 2.94305362701416,
+   "log2_peak_rate": 3.3291234970092773,
+   "log2p_scroll_per_min": 5.449780225753784,
+   "log2p_meter_per_min": 0.0
+  }
+ },
+ "osu_std": {
+  "easy": {
+   "charts": 3973,
+   "log2_rate": 0.28123629093170166,
+   "log2_peak_rate": 1.0,
+   "log2p_scroll_per_min": 3.513237237930298,
+   "log2p_meter_per_min": 0.0
+  },
+  "normal": {
+   "charts": 6110,
+   "log2_rate": 1.103637158870697,
+   "log2_peak_rate": 1.5849624872207642,
+   "log2p_scroll_per_min": 3.7664852142333984,
+   "log2p_meter_per_min": 0.0
+  },
+  "hard": {
+   "charts": 9698,
+   "log2_rate": 1.5860477089881897,
+   "log2_peak_rate": 2.0179219245910645,
+   "log2p_scroll_per_min": 4.188711166381836,
+   "log2p_meter_per_min": 0.0
+  },
+  "insane": {
+   "charts": 11470,
+   "log2_rate": 1.9265733361244202,
+   "log2_peak_rate": 2.419538974761963,
+   "log2p_scroll_per_min": 4.606777906417847,
+   "log2p_meter_per_min": 0.0
+  },
+  "expert": {
+   "charts": 7455,
+   "log2_rate": 2.281279683113098,
+   "log2_peak_rate": 2.700439691543579,
+   "log2p_scroll_per_min": 4.9708027839660645,
+   "log2p_meter_per_min": 0.0
+  }
+ }
+}

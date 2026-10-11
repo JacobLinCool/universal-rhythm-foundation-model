@@ -1,0 +1,6 @@
+&title=Touch
+&artist=URFM
+&inote_5=
+(180){4}A1,B2/E8,C,C1,C2f,D4,
+Ch[4:1],Cfh[2:1],B1h[8:1],E3f,
+E

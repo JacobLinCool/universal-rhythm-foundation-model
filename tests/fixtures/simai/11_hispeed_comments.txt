@@ -1,0 +1,8 @@
+&title=Hi-Speed and Comments
+&artist=URFM
+&inote_5=
+|| a comment line
+(120){4}<HS*1.5>1,2, || trailing comment
+<HS*0.5>3,
+{8}4,,5,
+E

@@ -1,0 +1,58 @@
+{
+  "train": {
+    "data": "/content/data/urfm-ingest-v0",
+    "sources": [
+      "taiko1000"
+    ],
+    "mechanics": [],
+    "alpha": 0.5,
+    "size": "10m",
+    "max_dec_len": 1024,
+    "batch_size": 64,
+    "grad_accum": 1,
+    "lr": 0.0003,
+    "min_lr_ratio": 0.1,
+    "weight_decay": 0.01,
+    "warmup": 300,
+    "steps": 6000,
+    "clip": 1.0,
+    "workers": 10,
+    "compile": true,
+    "device": "cuda",
+    "seed": 0,
+    "log_every": 100,
+    "eval_every": 500,
+    "eval_windows": 512,
+    "ckpt_every": 2000,
+    "out": "/content/runs/v1b-taiko",
+    "hub_repo": "JacobLinCool/urfm-runs"
+  },
+  "model": {
+    "vocab_size": 817,
+    "frame_feat_dim": 7,
+    "n_mels": 128,
+    "d_model": 320,
+    "enc_layers": 4,
+    "dec_layers": 3,
+    "n_heads": 5,
+    "ff_mult": 4,
+    "emb_dim": null,
+    "max_enc_len": 704,
+    "max_dec_len": 1024,
+    "dropout": 0.0,
+    "memory_tokens": 0
+  },
+  "params": {
+    "total": 11103680,
+    "encoder_layers": 4926720,
+    "decoder_layers": 4925760,
+    "embedding": 261440
+  },
+  "vocab_hash": "7b2c21ead1522776",
+  "train_charts": {
+    "taiko": 4023
+  },
+  "val_charts": {
+    "taiko": 387
+  }
+}

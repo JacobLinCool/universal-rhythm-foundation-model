@@ -1,0 +1,20 @@
+{
+ "n_gen": 820.8571428571429,
+ "n_ref": 1073.4285714285713,
+ "f1@25": 0.5767518627819087,
+ "ioi_ref_l1": 0.6544040653853036,
+ "section_r_density": 0.03796517158035576,
+ "section_r_fine": 0.02867594892637677,
+ "section_r_rest": 0.10558669514690504,
+ "section_r_ka": 0.0397407427186749,
+ "fine_share_gen": 0.3494624803639053,
+ "fine_share_ref": 0.5162121273350309,
+ "rest_share_gen": 0.21384757715258046,
+ "rest_share_ref": 0.2064063483633412,
+ "measure_rhythm_variety_gen": 0.5219542113183125,
+ "measure_rhythm_variety_ref": 0.615423515431838,
+ "first_onset_delay_s": -0.354192,
+ "taiko_role_acc@25": 0.46265845323195265,
+ "controls_gen": 10.285714285714286,
+ "controls_ref": 40.857142857142854
+}

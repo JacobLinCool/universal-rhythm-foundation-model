@@ -1,0 +1,68 @@
+{
+  "train": {
+    "data": "/content/data/urfm-ingest-v0",
+    "sources": [
+      "taiko1000",
+      "osu"
+    ],
+    "mechanics": [
+      "taiko",
+      "osu_taiko"
+    ],
+    "alpha": 0.5,
+    "size": "15m",
+    "max_dec_len": 2048,
+    "batch_size": 64,
+    "grad_accum": 1,
+    "lr": 0.0003,
+    "min_lr_ratio": 0.1,
+    "weight_decay": 0.01,
+    "warmup": 400,
+    "steps": 6000,
+    "clip": 1.0,
+    "workers": 9,
+    "compile": true,
+    "device": "cuda",
+    "seed": 0,
+    "log_every": 100,
+    "eval_every": 500,
+    "eval_windows": 512,
+    "ckpt_every": 2000,
+    "out": "/content/runs/v2-taiko-osutaiko",
+    "hub_repo": "JacobLinCool/urfm-runs"
+  },
+  "model": {
+    "vocab_size": 817,
+    "frame_feat_dim": 7,
+    "n_mels": 128,
+    "d_model": 384,
+    "enc_layers": 4,
+    "dec_layers": 3,
+    "n_heads": 6,
+    "ff_mult": 4,
+    "emb_dim": null,
+    "max_enc_len": 704,
+    "max_dec_len": 2048,
+    "dropout": 0.0,
+    "memory_tokens": 0
+  },
+  "params": {
+    "total": 16150656,
+    "encoder_layers": 7091712,
+    "decoder_layers": 7090560,
+    "embedding": 313728
+  },
+  "vocab_hash": "7b2c21ead1522776",
+  "train_charts": {
+    "osu_taiko": 32639,
+    "taiko": 4023
+  },
+  "val_charts": {
+    "osu_taiko": 674,
+    "taiko": 387
+  },
+  "val_pipeline": {
+    "taiko/truncated_windows": 0,
+    "osu_taiko/truncated_windows": 0
+  }
+}

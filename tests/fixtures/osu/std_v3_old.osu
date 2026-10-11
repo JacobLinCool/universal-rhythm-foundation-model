@@ -1,0 +1,30 @@
+osu file format v3
+
+[General]
+AudioFilename: old.mp3
+AudioHash: 0123456789abcdef
+
+[Metadata]
+Title:Old Map
+Artist:Ancient
+Creator:peppy
+Version:Easy
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:3
+SliderMultiplier: 1
+SliderTickRate: 2
+
+[Events]
+2,10000,12000
+
+[TimingPoints]
+1000,500
+3000,-50
+
+[HitObjects]
+100,100,1000,1,0
+200,200,1500,2,0,B|300:200|300:300,1,100
+256,192,3000,12,0,5000

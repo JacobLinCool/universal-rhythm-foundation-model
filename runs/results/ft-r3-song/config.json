@@ -1,0 +1,85 @@
+{
+  "train": {
+    "data": "/content/data/urfm-ingest-v0",
+    "sources": [
+      "taiko1000"
+    ],
+    "mechanics": [],
+    "alpha": 0.5,
+    "size": "15m",
+    "max_dec_len": 2048,
+    "song_context": true,
+    "batch_size": 64,
+    "grad_accum": 1,
+    "lr": 0.0001,
+    "min_lr_ratio": 0.1,
+    "weight_decay": 0.01,
+    "warmup": 200,
+    "steps": 4000,
+    "clip": 1.0,
+    "workers": 10,
+    "compile": true,
+    "device": "cuda",
+    "seed": 0,
+    "log_every": 100,
+    "eval_every": 500,
+    "eval_windows": 512,
+    "ckpt_every": 2000,
+    "out": "/content/runs/ft-r3-song",
+    "init": "/content/runs/r3-all-song/best.pt",
+    "hub_repo": "JacobLinCool/urfm-runs"
+  },
+  "model": {
+    "vocab_size": 817,
+    "frame_feat_dim": 7,
+    "n_mels": 128,
+    "d_model": 384,
+    "enc_layers": 4,
+    "dec_layers": 3,
+    "n_heads": 6,
+    "ff_mult": 4,
+    "emb_dim": null,
+    "max_enc_len": 704,
+    "max_dec_len": 2048,
+    "dropout": 0.0,
+    "memory_tokens": 0,
+    "song_context": true,
+    "song_layers": 2,
+    "song_max": 256
+  },
+  "params": {
+    "total": 19846656,
+    "encoder_layers": 7091712,
+    "decoder_layers": 7090560,
+    "embedding": 313728
+  },
+  "vocab_hash": "7b2c21ead1522776",
+  "train_charts": {
+    "taiko": 4023
+  },
+  "val_charts": {
+    "taiko": 387
+  },
+  "tiers": {
+    "edges": {
+      "taiko": [
+        1.4587,
+        2.1453,
+        3.2844,
+        4.8221
+      ]
+    },
+    "centers": {
+      "taiko": [
+        1.177,
+        1.7709,
+        2.6832,
+        3.9564,
+        6.0143
+      ]
+    }
+  },
+  "val_pipeline": {
+    "taiko/truncated_windows": 0
+  }
+}
